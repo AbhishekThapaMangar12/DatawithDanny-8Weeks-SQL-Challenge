@@ -14,7 +14,7 @@
 
   Danny has provided you with a sample of his overall customer data due to privacy issues - but he hopes that these examples are enough for you to write fully            functioning SQL queries to help him answer his questions!
   
-- Tables Used :
+- ## Tables Used :
 
     - sales
     - menu
